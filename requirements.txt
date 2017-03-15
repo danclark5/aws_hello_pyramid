@@ -1,0 +1,2 @@
+zope.deprecation==4.1.2
+pyramid==1.8.1
