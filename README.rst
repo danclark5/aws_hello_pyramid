@@ -1,7 +1,7 @@
 Hello Pyramid
 =============
 
-This repo houses the sample code used in my `HOW-TO: PYRAMID HELLO WORLD ON AWS <http://bruisedthumb.com/post/2017-03-05>`_ Tutorial.
+This repo houses the sample code used in my `How-To: Hello Pyramid on AWS <http://bruisedthumb.com/post/2017-03-05>`_ Tutorial.
 
 It contains the following
 
